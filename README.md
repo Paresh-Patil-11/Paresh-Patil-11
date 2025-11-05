@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi, I'm Paresh Patil 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;400%2B+DSA+Problems+Solved;Building+Scalable+Applications)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;400%2B+DSA+Problems+Solved;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/paresh-patil-11)
 
