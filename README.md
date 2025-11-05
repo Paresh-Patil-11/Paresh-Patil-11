@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Paresh Patil 👋
+# HI, I'M PARESH PATIL 👋
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;400%2B+DSA+Problems+Solved;Building+Scalable+Applications)](https://git.io/typing-svg)
 
