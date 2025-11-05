@@ -60,10 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paresh-patil-11&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paresh-patil-11&theme=radical" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🌱 Currently
